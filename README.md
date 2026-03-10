@@ -1,5 +1,9 @@
 # 4640-lab-wk7
 
+Nuree Na
+
+Monte Lee
+
 Ansible configuration to set up Nginx on EC2 instances.
 
 ## required command(s) to:
